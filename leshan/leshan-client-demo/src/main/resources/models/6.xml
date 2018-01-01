@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LWM2M  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://openmobilealliance.org/tech/profiles/LWM2M.xsd">
+	<Object ObjectType="MODefinition">
+		<Name>Location</Name>
+		<Description1>Description: Represents the Location of the Parking Spot</Description1>
+		<ObjectID>6</ObjectID>
+		<ObjectURN>urn:oma:lwm2m:ext:6</ObjectURN>
+		<MultipleInstances>Single</MultipleInstances>
+		<Mandatory>Optional</Mandatory>
+		<Resources>
+			<Item ID="0">
+				<Name>Latitude</Name>
+				<Operations>R</Operations>
+				<MultipleInstances>Single</MultipleInstances>
+				<Mandatory>Mandatory</Mandatory>
+				<Type>Float</Type>
+				<RangeEnumeration></RangeEnumeration>
+				<Units>Deg</Units>
+				<Description>The decimal notation of latitude (X value). Can be set randomly.</Description>
+			</Item>
+			<Item ID="1">
+				<Name>Longitude</Name>
+				<Operations>R</Operations>
+				<MultipleInstances>Single</MultipleInstances>
+				<Mandatory>Mandatory</Mandatory>
+				<Type>Float</Type>
+				<RangeEnumeration></RangeEnumeration>
+				<Units>Deg</Units>
+				<Description>The decimal notation of latitude (X value). Can be set randomly.</Description>
+			</Item>
+			<Item ID="2">
+				<Name>Altitude</Name>
+				<Operations>R</Operations>
+				<MultipleInstances>Single</MultipleInstances>
+				<Mandatory>Optional</Mandatory>
+				<Type>Float</Type>
+				<RangeEnumeration></RangeEnumeration>
+				<Units>m</Units>
+				<Description>The decimal notation of altitude in meters above sea level.</Description>
+			</Item>
+			<Item ID="3">
+				<Name>Radius</Name>
+				<Operations>R</Operations>
+				<MultipleInstances>Single</MultipleInstances>
+				<Mandatory>Optional</Mandatory>
+				<Type>Float</Type>
+				<RangeEnumeration></RangeEnumeration>
+				<Units>m</Units>
+				<Description>The value in the Radius Resource indicates the size in meters of a circular area around a point geometry.</Description>
+			</Item>	
+			<Item ID="4">
+				<Name>Velocity</Name>
+				<Operations>R</Operations>
+				<MultipleInstances>Single</MultipleInstances>
+				<Mandatory>Optional</Mandatory>
+				<Type>Opaque</Type>
+				<RangeEnumeration></RangeEnumeration>
+				<Units>m</Units>
+				<Description>The velocity of the LwM2M Client is defined.</Description>
+			</Item>	
+			<Item ID="5">
+				<Name>Timestamp</Name>
+				<Operations>R</Operations>
+				<MultipleInstances>Single</MultipleInstances>
+				<Mandatory>Mandatory</Mandatory>
+				<Type>Time</Type>
+				<RangeEnumeration></RangeEnumeration>
+				<Units></Units>
+				<Description>The timestamp of when the location measurement was performed.</Description>
+			</Item>	
+
+		</Resources>
+		<Description2></Description2>
+	</Object>
+</LWM2M>
