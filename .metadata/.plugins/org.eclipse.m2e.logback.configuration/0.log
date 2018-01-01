@@ -1,0 +1,137 @@
+2017-12-29 18:28:43,583 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.eclipse.leshan:leshan:1.0.0-SNAPSHOT @ /Users/hmartineztobar/Documents/Development/leshanPro/leshan/pom.xml.
+2017-12-29 18:28:49,562 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.eclipse.leshan:leshan-core:1.0.0-SNAPSHOT @ /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-core/pom.xml.
+2017-12-29 18:28:50,037 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.eclipse.leshan:leshan-core-cf:1.0.0-SNAPSHOT @ /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-core-cf/pom.xml.
+2017-12-29 18:28:51,621 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.eclipse.leshan:leshan-server-core:1.0.0-SNAPSHOT @ /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-core/pom.xml.
+2017-12-29 18:28:51,756 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.eclipse.leshan:leshan-server-cf:1.0.0-SNAPSHOT @ /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-cf/pom.xml.
+2017-12-29 18:28:52,035 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.eclipse.leshan:leshan-server-cluster:1.0.0-SNAPSHOT @ /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-cluster/pom.xml.
+2017-12-29 18:28:52,580 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.eclipse.leshan:leshan-client-core:1.0.0-SNAPSHOT @ /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-client-core/pom.xml.
+2017-12-29 18:28:52,830 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.eclipse.leshan:leshan-client-cf:1.0.0-SNAPSHOT @ /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-client-cf/pom.xml.
+2017-12-29 18:28:54,284 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.eclipse.leshan:leshan-server-demo:1.0.0-SNAPSHOT @ /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-demo/pom.xml.
+2017-12-29 18:28:57,522 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.eclipse.leshan:leshan-client-demo:1.0.0-SNAPSHOT @ /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-client-demo/pom.xml.
+2017-12-29 18:28:58,148 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.eclipse.leshan:leshan-bsserver-demo:1.0.0-SNAPSHOT @ /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-bsserver-demo/pom.xml.
+2017-12-29 18:28:58,522 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.eclipse.leshan:leshan-all:1.0.0-SNAPSHOT @ /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-all/pom.xml.
+2017-12-29 18:29:14,435 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-core/src/main/java
+2017-12-29 18:29:14,436 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /leshan-core/src/main/resources
+2017-12-29 18:29:14,448 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-core/src/test/java
+2017-12-29 18:29:14,449 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /leshan-core/src/test/resources
+2017-12-29 18:29:18,703 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-core-cf/src/main/java
+2017-12-29 18:29:18,708 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-core-cf/src/test/java
+2017-12-29 18:29:19,541 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-server-core/src/main/java
+2017-12-29 18:29:19,551 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-server-core/src/test/java
+2017-12-29 18:29:20,061 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-server-cf/src/main/java
+2017-12-29 18:29:20,078 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-server-cf/src/test/java
+2017-12-29 18:29:20,530 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-server-cluster/src/main/java
+2017-12-29 18:29:20,530 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /leshan-server-cluster/src/main/resources
+2017-12-29 18:29:20,980 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-server-cluster/src/test/java
+2017-12-29 18:29:22,826 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-server-demo/src/main/java
+2017-12-29 18:29:22,826 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /leshan-server-demo/src/main/resources
+2017-12-29 18:29:22,832 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-server-demo/src/test/java
+2017-12-29 18:29:25,454 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-client-core/src/main/java
+2017-12-29 18:29:25,524 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-client-core/src/test/java
+2017-12-29 18:29:31,142 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-client-cf/src/main/java
+2017-12-29 18:29:31,159 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-client-cf/src/test/java
+2017-12-29 18:29:31,403 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-all/src/main/java
+2017-12-29 18:29:31,403 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-all/src/test/java
+2017-12-29 18:29:31,612 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-bsserver-demo/src/main/java
+2017-12-29 18:29:31,613 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /leshan-bsserver-demo/src/main/resources
+2017-12-29 18:29:31,640 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-bsserver-demo/src/test/java
+2017-12-29 18:29:32,071 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-client-demo/src/main/java
+2017-12-29 18:29:32,071 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /leshan-client-demo/src/main/resources
+2017-12-29 18:29:32,074 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /leshan-client-demo/src/test/java
+2017-12-29 18:29:32,192 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 12 project(s) in 63 sec
+2017-12-29 18:29:36,188 [Worker-7] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/var/folders/6d/c2sj03yn7klg1m_9h8pmn_b00000gn/T/RemoteBundleDiscoveryStrategy3402725224558505281.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_5891486248939813074.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2017-12-29 18:29:36,189 [Worker-7] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2017-12-29 18:29:36,557 [Worker-7] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/var/folders/6d/c2sj03yn7klg1m_9h8pmn_b00000gn/T/RemoteBundleDiscoveryStrategy3402725224558505281.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_5891486248939813074.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2017-12-29 18:29:36,557 [Worker-7] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2017-12-29 18:29:42,856 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:42,979 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-12-29 18:29:43,097 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:43,098 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-29 18:29:43,541 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:43,541 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-client-core/src/main/resources
+2017-12-29 18:29:43,543 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:43,543 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-client-core/src/test/resources
+2017-12-29 18:29:43,924 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:43,925 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-core-cf/src/main/resources
+2017-12-29 18:29:43,926 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:43,927 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-core-cf/src/test/resources
+2017-12-29 18:29:44,679 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:44,680 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-client-cf/src/main/resources
+2017-12-29 18:29:44,681 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:44,682 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-client-cf/src/test/resources
+2017-12-29 18:29:45,103 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:45,104 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-12-29 18:29:45,246 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:45,246 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-client-demo/src/test/resources
+2017-12-29 18:29:45,656 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:45,657 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-core/src/main/resources
+2017-12-29 18:29:45,659 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:45,659 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-core/src/test/resources
+2017-12-29 18:29:46,408 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:46,408 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-cf/src/main/resources
+2017-12-29 18:29:46,410 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:46,410 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-cf/src/test/resources
+2017-12-29 18:29:47,394 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:47,395 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-29 18:29:47,401 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:47,401 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-cluster/src/test/resources
+2017-12-29 18:29:49,428 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:49,430 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2017-12-29 18:29:50,683 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:50,683 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-bsserver-demo/src/test/resources
+2017-12-29 18:29:50,846 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:50,846 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-all/src/main/resources
+2017-12-29 18:29:50,847 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:50,848 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-all/src/test/resources
+2017-12-29 18:29:51,810 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:51,814 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 129 resources
+2017-12-29 18:29:59,114 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:29:59,114 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-demo/src/test/resources
+2017-12-29 18:32:28,461 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:28,493 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-12-29 18:32:28,535 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:28,536 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-29 18:32:29,038 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:29,039 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-client-core/src/main/resources
+2017-12-29 18:32:29,041 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:29,042 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-client-core/src/test/resources
+2017-12-29 18:32:29,249 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:29,249 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-core-cf/src/main/resources
+2017-12-29 18:32:29,252 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:29,252 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-core-cf/src/test/resources
+2017-12-29 18:32:31,477 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:31,477 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-client-cf/src/main/resources
+2017-12-29 18:32:31,480 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:31,480 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-client-cf/src/test/resources
+2017-12-29 18:32:34,075 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:34,076 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-12-29 18:32:34,090 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:34,090 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-client-demo/src/test/resources
+2017-12-29 18:32:35,128 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:35,129 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-core/src/main/resources
+2017-12-29 18:32:35,131 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:35,131 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-core/src/test/resources
+2017-12-29 18:32:35,553 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:35,554 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-cf/src/main/resources
+2017-12-29 18:32:35,555 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:35,556 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-cf/src/test/resources
+2017-12-29 18:32:36,193 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:36,193 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-12-29 18:32:36,197 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:36,197 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-cluster/src/test/resources
+2017-12-29 18:32:37,123 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:37,124 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2017-12-29 18:32:37,281 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:37,282 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-bsserver-demo/src/test/resources
+2017-12-29 18:32:37,561 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:37,561 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-all/src/main/resources
+2017-12-29 18:32:37,565 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:37,568 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-all/src/test/resources
+2017-12-29 18:32:39,998 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:40,004 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 129 resources
+2017-12-29 18:32:40,268 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:40,269 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-server-demo/src/test/resources
+2017-12-29 18:32:48,318 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-12-29 18:33:05,001 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-12-29 18:33:11,653 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/hmartineztobar/Documents/Development/leshanPro/leshan/leshan-client-demo
+2017-12-29 18:33:11,654 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install

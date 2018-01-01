@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1514568508353_0" label="leshan" name="leshan">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/leshan-server-demo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/leshan-server-cluster" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/leshan-client-cf" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/leshan-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/leshan-client-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/leshan" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/leshan-server-cf" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/leshan-bsserver-demo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/leshan-all" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/leshan-server-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/leshan-core-cf" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/leshan-client-demo" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1514568729774_1" label="Window Working Set" name="Aggregate for window 1514568729773"/>
+</workingSetManager>
